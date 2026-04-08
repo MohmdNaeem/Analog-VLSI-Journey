@@ -11,6 +11,14 @@ This repository documents my journey of learning Analog & Mixed Signal VLSI usin
 
 ## Tools Used
 - LTspice
+  
+## Simulation Result
+
+![Id vs Vgs](id_vs_vgs_curve.png)
+
+## Circuit
+
+![Circuit](ltspice_circuit.png)
 
 ## Goal
 To build strong intuition in analog circuit design through theory + simulation
